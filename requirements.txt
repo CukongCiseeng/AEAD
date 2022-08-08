@@ -1,4 +1,3 @@
-lib2to3.pytree
 Crypto.Cipher
 binascii
 bitstring
